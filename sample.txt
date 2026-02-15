@@ -2,3 +2,4 @@ this is sample file
 this file will be used for understanding Git
 this is .txt file
 new line added from github
+changes from feature branch
